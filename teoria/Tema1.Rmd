@@ -39,7 +39,7 @@ Es un entorno integrado para utilizar y programar con R
 </div> 
 
 
-## Cómo instalar R T
+## Cómo instalar R T 
 
 **Si sois de Windows o Mac**
 
